@@ -2991,6 +2991,7 @@ ul.project_info li p {
 ==================================================================== ***/
 .cmt_floting_customsett {
     position: fixed;
+    display: none;
     top: 50%;
     right: 0;
     padding: 3px 0 10px;
